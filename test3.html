@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fashion Game</title>
+  <style>
+     .container {
+      display: flex;
+      justify-content: space-between;
+      margin: 20px;
+    }
+
+    .flip-container {
+      perspective: 1000px;
+      display: inline-block;
+    }
+
+    .flip-container:hover .flipper,
+    .flip-container.flip .flipper {
+      transform: rotateY(180deg);
+    }
+
+    .flipper {
+      transition: 0.6s;
+      transform-style: preserve-3d;
+      transition: all 0.5s ease;
+      position: relative;
+    }
+
+    .front,
+    .back {
+      width: 100px;
+      height: 150px;
+      position: absolute;
+      backface-visibility: hidden;
+    }
+
+    .back {
+      transform: rotateY(180deg);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 24px;
+    }
+
+   
+  </style>
+</head>
+<body>
+    <div class="container">
+        <div class="flip-container">
+            <div class="flipper">
+              <div class="front"><img src="images/outfit1.jpg" alt="0"></div>
+              <div class="back">0</div>
+            </div>
+          </div>
+        
+          <div class="flip-container">
+            <div class="flipper">
+              <div class="front"><img src="images/outfit2.jpg" alt="1"></div>
+              <div class="back">1</div>
+            </div>
+          </div>
+        
+          <div class="flip-container">
+            <div class="flipper">
+              <div class="front"><img src="images/outfit3.jpg" alt="2"></div>
+              <div class="back">2</div>
+            </div>
+          </div>
+        
+          <div class="flip-container">
+            <div class="flipper">
+              <div class="front"><img src="images/outfit4.jpg" alt="3"></div>
+              <div class="back">3</div>
+            </div>
+          </div>
+        
+          <div class="flip-container">
+            <div class="flipper">
+              <div class="front"><img src="images/outfit5.jpg" alt="4"></div>
+              <div class="back">4</div>
+            </div>
+          </div>
+        
+          <div class="flip-container">
+            <div class="flipper">
+              <div class="front"><img src="images/outfit6.jpg" alt="5"></div>
+              <div class="back">5</div>
+            </div>
+          </div>
+    </div>
+
+  
+
+</body>
+</html>
