@@ -1,0 +1,76 @@
+Learning outcomes to be demonstrated
+LO2 Use HTML, CSS and JavaScript in the design and creation of web pages.
+LO3 Use JavaScript to manipulate the DOM
+LO4 Debug and optimise client-side code
+LO5 Deploy websites online
+
+Project Requirements:
+The theme of the project is "Sustainability".
+• Every team member is required to design and develop a webpage using HTML, CSS
+and include JS to manipulate the DOM
+
+• The website needs to be responsive
+
+• There must also be a gallery with at least 4 images
+
+• There must be a form with at least 5 fields and uses JS for validation of the fields
+
+• Navigation across all webpages must be implemented
+
+• There needs to be a mini game using JS that includes randomisation
+
+• The report needs to document the image optimisation, HTML validation, Google
+page speeds, etc.
+
+• You need to provide the link to the deployed website
+
+• You need to provide a link to each team members' GitHub account where their
+work can be seen (at least 4 commits) in a public repository
+Report
+
+• Document (.DOCX) version: wordcount is max. 1000 words
+OR
+• Video presentation: 10-15 minutes long max. If you choose this format, upload a text
+document (.DOCX or .PDF) providing the following:
+o Link to the video presentation file that any NCI staff member can view
+o Link to the deployed website
+o Links to all the team members personal GitHub accounts
+
+
+
+HTML ELEMENTS
+1. Navbar
+2. Forms
+3. images --- should be cropped using the online tools (resize)
+4. Favicon for the page
+5. Media -- yt video for example
+6. 
+
+
+
+
+
+
+
+
+
+
+
+IDEA 
+Sustainability in fashion -- an app that allows people to rent clothes/ shoes for big events
+form to fill - size and requirements of the product needed / inquiry about availability
+Images of products available
+Theme of the website on how it promotes sustainability -- online
+
+Game - ruffle like when you are a logged in memebr, which allows you to pick up random cards that are gifts--- like gift cards wins
+
+
+How to turn different used products into reusable ones
+
+
+
+Welcome message: Welcome to Ecco fashion, where we believe in fashion with a purpose. Our mission is to revolutionize the way you experience style by seamlessly blending sustainability and chic aesthetics. 
+
+About message: Embark on a journey with us as we transform the concept of fashion. We specialize in recycling and upcycling clothes to craft stunning new outfits that not only make a statement but also contribute to a greener, more sustainable planet. Every piece tells a unique story of renewal and eco-friendly innovation.
+
+Why buy when you can rent? ReStyle Rhythms presents a curated collection of reused outfits for every occasion. Embrace the joy of sustainable fashion by renting outfits that showcase your style without compromising the environment. Our diverse range ensures you always find the perfect look for any event.
